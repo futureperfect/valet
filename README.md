@@ -1,24 +1,17 @@
-# README
+# Valet
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[![Build Status](https://travis-ci.org/futureperfect/valet.svg?branch=master)](https://travis-ci.org/futureperfect/valet)
 
-Things you may want to cover:
+### What is Valet?
 
-* Ruby version
+Valet is a tool for running a bicycle valet service at an event. Once you have
+it set up, Valet will allow you run a bicycle valet service at your event using
+SMS to handle ticketing and pickup.
 
-* System dependencies
+## License
 
-* Configuration
+Valet is Copyright (c) 2017 Erik Hollembeak.
+It is free software, and may be redistributed
+under the terms specified in the [LICENSE] file.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  [LICENSE]: LICENSE.md
