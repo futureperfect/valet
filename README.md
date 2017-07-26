@@ -1,6 +1,7 @@
 # Valet
 
 [![Build Status](https://travis-ci.org/futureperfect/valet.svg?branch=master)](https://travis-ci.org/futureperfect/valet)
+[![Code Climate](https://codeclimate.com/github/futureperfect/valet/badges/gpa.svg)](https://codeclimate.com/github/futureperfect/valet)
 
 ### What is Valet?
 
